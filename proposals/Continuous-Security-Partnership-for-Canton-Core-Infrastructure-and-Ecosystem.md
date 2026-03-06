@@ -1,7 +1,7 @@
 # Development Fund Proposal: Continuous Security Partnership for Canton Core Infrastructure and Ecosystem
 
-**Author:** VulSight (vulsight.com) — Salman [TG/X: @ItsShad0wWalker](https://twitter.com/ItsShad0wWalker) & ZeroCipher(Lead Researcher) ( https://x.com/zerocipher002)
-**Status:** Draft  
+**Author:** VulSight (vulsight.com) — ZeroCipher(Lead Researcher) ( https://x.com/zerocipher002) and Salman [TG/X: @ItsShad0wWalker](https://twitter.com/ItsShad0wWalker) & 
+**Status:** Submitted  
 **Created:** 2026-03-04
 
 ---
